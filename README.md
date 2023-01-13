@@ -4,8 +4,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ![Large screen](./images/large-screen.png)
 
-> - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/ntf-preview-card-component-???)
-> - Live Site URL: [live site URL](https://ahmedattia010.github.io/frontend-mentor-ntf-preview-card)
+> - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-DjTA-HZiEg/)
+> - Live Site URL: [live site URL](https://ahmedattia010.github.io/frontend-mentor-nft-preview-card/)
 
 ## Table of contents
 
